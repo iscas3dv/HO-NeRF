@@ -10,7 +10,6 @@
   * [Training and Testing](#usage)
   * [Evaluation](#eval)
   * [Citation](#citation)
-  * [License](#license)
 ------
 
 ## Installation ##
@@ -143,7 +142,5 @@ python ./analys_results/analys_psnr_ssim_lpips.py
 }
 ```
 
-This codebase adapts modules from [NeuS](https://github.com/Totoro97/NeuS), [HALO](https://github.com/korrawe/halo). Please consider citing them as well.
+This codebase adapts modules from [NeuS](https://github.com/Totoro97/NeuS), [HALO](https://github.com/korrawe/halo) and [Pytorh3D](https://github.com/facebookresearch/pytorch3d/). Please consider citing them as well.
 
-
-## License ##
