@@ -29,11 +29,11 @@ We also need to install pytorch3d from [here](https://github.com/facebookresearc
 ## Preparing ##
 ### Preparing Datasets ###
 
-Download the [HandObject](https://iscas3dv.github.io/HO-NeRF) dataset and name it 'data' and put it in the root directory.
+Download the [HandObject](https://pan.baidu.com/s/1nJE1Jfmo7wwqS7SNqthNrQ?pwd=8pek) dataset and name it 'data' and put it in the root directory.
 
 ### Download Pre-trained Models (Optional) ###
 
-Download the [Pre-trained Models](https://iscas3dv.github.io/HO-NeRF) and name it 'exp' and put it in the root directory.
+Download the [Pre-trained Models](https://pan.baidu.com/s/1nJE1Jfmo7wwqS7SNqthNrQ?pwd=8pek) which is named as 'exp' and put it in the root directory.
 
 ## Training and Testing ##
 
@@ -93,7 +93,7 @@ The results will be saved in ./fit_res/view_8/1234/obj_name/frame_name/pose_4
 
 ### Our results ###
 
-You can also download the [Our results](https://iscas3dv.github.io/HO-NeRF) named 'fit_res.zip'.
+You can also download the [Our results](https://pan.baidu.com/s/1nJE1Jfmo7wwqS7SNqthNrQ?pwd=8pek) named 'fit_res.zip'.
 
 ### Get more results ###
 We need to obtain the hand-object interaction reconstruction results, penetration points, and rendering results to evaluate our method.
