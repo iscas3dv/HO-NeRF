@@ -107,10 +107,6 @@ python get_res.py --conf ./fit_confs/get_res_12.conf --case get_res_12 --gpu 0
 python get_res.py --conf ./fit_confs/get_res_123.conf --case get_res_123 --gpu 0
 # Get penetration points for fit_type: '1234'
 python get_res.py --conf ./fit_confs/get_res_1234.conf --case get_res_1234 --gpu 0
-# Get rendering results for initial pose: '0'
-python get_res.py --conf ./fit_confs/get_render_type0.conf --case render_res_type0 --gpu 0 --render True
-# Get rendering results for fit_type: '1'
-python get_res.py --conf ./fit_confs/get_render_type1.conf --case render_res_type1 --gpu 0 --render True
 # Get rendering results for fit_type: '12'
 python get_res.py --conf ./fit_confs/get_render_type12.conf --case render_res_type12 --gpu 0 --render True
 ```
@@ -146,6 +142,8 @@ python ./analys_results/analys_psnr_ssim_lpips.py
   year={2023}
 }
 ```
+
+This codebase adapts modules from [NeuS](https://github.com/Totoro97/NeuS), [HALO](https://github.com/korrawe/halo). Please consider citing them as well.
 
 
 ## License ##
