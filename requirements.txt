@@ -16,4 +16,3 @@ scikit-image==0.21.0
 trimesh==3.23.5
 tensorboard==2.14.0
 rtree==1.0.1
-lpips==0.1.4
