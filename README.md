@@ -16,7 +16,7 @@
 PyTorch with CUDA support are required. Our code is tested on python 3.9, torch 1.13.0, CUDA 11.6, and RTX 3080 Ti.
 Clone the repository and install the dependencies:
 ```
-git clone https://github.com/Qwentian/honerf.git
+git clone https://github.com/iscas3dv/HO-NeRF
 cd honerf
 conda create -n honerf python=3.9 -y
 conda activate honerf
