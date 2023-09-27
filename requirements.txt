@@ -1,7 +1,7 @@
 lpips==0.1.4
 matplotlib==3.8.0
-numpy==1.26.0
-open3d==0.17.0
+numpy
+open3d
 opencv_python==4.8.0.76
 Pillow==9.4.0
 plyfile==1.0.1
