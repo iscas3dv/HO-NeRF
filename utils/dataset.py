@@ -143,13 +143,13 @@ class TrainDataLoad(torch.utils.data.Dataset):
             param_name_list = os.listdir(PARAM_path)
             param_name_list.sort()
             if 'bean' in data_root:
-                file_path = os.path.join(data_root,'bean_neus.ply')
+                file_path = os.path.join(data_root,'bean_ours.ply')
             elif 'meat' in data_root:
-                file_path = os.path.join(data_root,'meat_neus.ply')
+                file_path = os.path.join(data_root,'meat_ours.ply')
             elif 'box' in data_root:
-                file_path = os.path.join(data_root,'box_neus.ply')
+                file_path = os.path.join(data_root,'box_ours.ply')
             elif 'cup' in data_root:
-                file_path = os.path.join(data_root,'cup_neus.ply')
+                file_path = os.path.join(data_root,'cup_ours.ply')
             vert_model, _ = load_ply(file_path)
             vert_model /= 1000.0
             vert_model = np.array(vert_model[::50,:])
