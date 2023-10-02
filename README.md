@@ -1,5 +1,5 @@
 # Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from SparseViews
-## Official PyTorch implementation of the ICCV '23 paper ##
+## Official PyTorch implementation of the ICCV 2023 paper ##
 
 [Project page](https://iscas3dv.github.io/HO-NeRF) | [Paper](https://arxiv.org/pdf/2308.11198)
 
@@ -137,7 +137,7 @@ python ./analys_results/analys_psnr_ssim_lpips.py
 @article{qu2023novel,
   title={Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views},
   author={Qu, Wentian and Cui, Zhaopeng and Zhang, Yinda and Meng, Chenyu and Ma, Cuixia and Deng, Xiaoming and Wang, Hongan},
-  journal={arXiv preprint arXiv:2308.11198},
+  journal={ICCV2023},
   year={2023}
 }
 ```
