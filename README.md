@@ -28,7 +28,7 @@ We also need to install pytorch3d from [here](https://github.com/facebookresearc
 ## Preparing ##
 ### Preparing Datasets ###
 
-Download the [HandObject](https://pan.baidu.com/s/1nJE1Jfmo7wwqS7SNqthNrQ?pwd=8pek) dataset and name it 'data' and put it in the root directory.
+Download the [HandObject](https://pan.baidu.com/s/1t7oRCtJe0qBYazbC7CZoiA?pwd=8rc4) dataset and name it 'data' and put it in the root directory.
 
 ### Download Pre-trained Models (Optional) ###
 
