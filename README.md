@@ -32,7 +32,7 @@ Download the [HandObject](https://pan.baidu.com/s/1t7oRCtJe0qBYazbC7CZoiA?pwd=8r
 
 ### Download Pre-trained Models (Optional) ###
 
-Download the [Pre-trained Models](https://pan.baidu.com/s/1nJE1Jfmo7wwqS7SNqthNrQ?pwd=8pek) which is named as 'exp' and put it in the root directory.
+Download the [Pre-trained Models](https://pan.baidu.com/s/1t7oRCtJe0qBYazbC7CZoiA?pwd=8rc4) which is named as 'exp' and put it in the root directory.
 
 ## Training and Testing ##
 
