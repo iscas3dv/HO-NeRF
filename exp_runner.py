@@ -387,6 +387,7 @@ class Runner:
         Ro = Ro.to(self.device)[0]
         To = To.to(self.device)[0]
         T_pose_21 = T_pose_21.to(self.device)[0]
+        cur_bone_length = cur_bone_length.to(self.device)
         joint_3d = verts.to(self.device) #[1,21,3]
         if self.model_type == 'hand':
             kps_local_cs = convert_joints(joint_3d, source='mano', target='biomech')
