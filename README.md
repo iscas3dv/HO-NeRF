@@ -134,10 +134,11 @@ python ./analys_results/analys_psnr_ssim_lpips.py
 ## Citation ##
 
 ```bash
-@article{qu2023novel,
+@inproceedings{qu2023novel,
   title={Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views},
   author={Qu, Wentian and Cui, Zhaopeng and Zhang, Yinda and Meng, Chenyu and Ma, Cuixia and Deng, Xiaoming and Wang, Hongan},
-  journal={ICCV2023},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={15100--15111},
   year={2023}
 }
 ```
